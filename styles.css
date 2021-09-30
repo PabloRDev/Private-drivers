@@ -9,6 +9,10 @@ body {
   color: #747474;
 }
 
+p {
+  padding: 0 20px;
+}
+
 h2 {
   font-size: 2rem;
 }
@@ -200,6 +204,15 @@ main {
       "about"
       "pricing"
       "contact"
-      "footer";
+      "footer"
+      ;
+  }
+  .nav_burger ul {
+    display: flex;
+    flex-direction: column;
+  }
+
+  body {
+    font-size: 200%;
   }
 }
