@@ -173,7 +173,7 @@ nav,
   transition: opacity 0.2s, visibility 0.2s;
 }
 
-.pricing:hover .pricing__description {
+.pricing__list:hover .pricing__description {
   visibility: visible;
   opacity: 1;
 }
