@@ -164,7 +164,8 @@ main {
 
 .img__description {
   color: #747474;
-  margin: 8px 0;
+  margin: 4px 0 16px 0;
+  padding: 0;
   text-align: center;
   visibility: hidden;
   opacity: 0;
