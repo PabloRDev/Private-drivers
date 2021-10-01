@@ -206,8 +206,7 @@ nav,
       "about"
       "pricing"
       "contact"
-      "footer"
-      ;
+      "footer";
   }
   .nav__list {
     display: flex;
